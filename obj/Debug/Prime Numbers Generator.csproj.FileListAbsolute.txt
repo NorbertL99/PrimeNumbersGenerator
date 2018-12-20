@@ -1,0 +1,10 @@
+G:\programyportfolio\Prime Numbers Generator\Prime Numbers Generator\bin\Debug\Prime Numbers Generator.exe.config
+G:\programyportfolio\Prime Numbers Generator\Prime Numbers Generator\bin\Debug\Prime Numbers Generator.exe
+G:\programyportfolio\Prime Numbers Generator\Prime Numbers Generator\bin\Debug\Prime Numbers Generator.pdb
+G:\programyportfolio\Prime Numbers Generator\Prime Numbers Generator\obj\Debug\Prime Numbers Generator.csprojAssemblyReference.cache
+G:\programyportfolio\Prime Numbers Generator\Prime Numbers Generator\obj\Debug\Prime_Numbers_Generator.Properties.Resources.resources
+G:\programyportfolio\Prime Numbers Generator\Prime Numbers Generator\obj\Debug\Prime_Numbers_Generator.MainWindow.resources
+G:\programyportfolio\Prime Numbers Generator\Prime Numbers Generator\obj\Debug\Prime Numbers Generator.csproj.GenerateResource.cache
+G:\programyportfolio\Prime Numbers Generator\Prime Numbers Generator\obj\Debug\Prime Numbers Generator.csproj.CoreCompileInputs.cache
+G:\programyportfolio\Prime Numbers Generator\Prime Numbers Generator\obj\Debug\Prime Numbers Generator.exe
+G:\programyportfolio\Prime Numbers Generator\Prime Numbers Generator\obj\Debug\Prime Numbers Generator.pdb
